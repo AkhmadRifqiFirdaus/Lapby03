@@ -11,6 +11,8 @@ contoh perulangan :
 ![capture1](https://user-images.githubusercontent.com/46735232/52991188-3434c100-343e-11e9-8a61-3c11146b99b2.JPG)
 
 2.  latihan2.py
+Fungsi max() adalah fungsi bulid-in untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka. 
+contoh program nilai Max :
 
 
 
