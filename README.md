@@ -42,6 +42,8 @@ Codingan dan Output Program1.py
 Coding :
 ![capture3](https://user-images.githubusercontent.com/46735232/52992288-a8716380-3442-11e9-9584-7acbf3b28dc1.JPG)
 Output/hasil :
+![capture4](https://user-images.githubusercontent.com/46735232/52992292-aa3b2700-3442-11e9-86bc-3058bdc84ee0.JPG)
+
 
 
 
