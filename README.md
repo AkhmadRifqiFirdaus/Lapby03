@@ -13,6 +13,7 @@ contoh perulangan :
 2.  latihan2.py
 Fungsi max() adalah fungsi bulid-in untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka. 
 contoh program nilai Max :
+![capture2](https://user-images.githubusercontent.com/46735232/52991297-ac9b8200-343e-11e9-8bbc-90878adf99c2.JPG)
 
 
 
