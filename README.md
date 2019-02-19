@@ -7,7 +7,7 @@ Perualangan dalam bahasa pemrograman berfungsi menyuruh komputer melakukan sesua
 Perulangan for disebut counted loop (perulangan yang terhitung), sementara perulangan while disebut uncounted loop (perulangan yang tak terhitung). Perbedaannya adalah perulangan for biasanya digunakan untuk mengulangi kode yang sudah diketahui banyak perulangannya. Sementara while untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya.
 
 contoh perulangan :
-
+![capture1](https://user-images.githubusercontent.com/46735232/52991188-3434c100-343e-11e9-8a61-3c11146b99b2.JPG)
 
 
   
