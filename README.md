@@ -17,19 +17,17 @@ Parameter
 
 Fungsi max() memiliki 2 bentuk argumen, yaitu:
 
-    1. max(iterable, *iterables[, key, default])
+1. max(iterable, *iterables[, key, default])
+iterable – sequence (tuple, string), collection (set, dictionary) atau objek iterator yang elemen terbesarnya akan dicari
+*iterables (opsional) – satu atau beberapa iterable yang elemen terbesarnya akan dicari
+key (opsional) – fungsi kunci dimana iterable dilewatkan dan perbandingan dilakukan berdasarkan pada nilai kembaliannya
+default (opsional) – nilai default bila iterablenya kosong
 
-    iterable – sequence (tuple, string), collection (set, dictionary) atau objek iterator yang elemen terbesarnya akan dicari
-    *iterables (opsional) – satu atau beberapa iterable yang elemen terbesarnya akan dicari
-    key (opsional) – fungsi kunci dimana iterable dilewatkan dan perbandingan dilakukan berdasarkan pada nilai kembaliannya
-    default (opsional) – nilai default bila iterablenya kosong
-
-    2. max(arg1, arg2, *args[, key])
-
-    arg1 – objek pertama yang akan dibandingkan (bisa bilangan, string, atau objek lainnya)
-    arg2 – objek kedua yang akan dibandingkan
-    *args (opsional) – objek lainnya yang akan dibandingkan
-    key – fungsi kunci dimana tiap argumen dilewatkan, dan perbandingan dibuat berdasarkan pada nilai kembalinya
+2. max(arg1, arg2, *args[, key])
+arg1 – objek pertama yang akan dibandingkan (bisa bilangan, string, atau objek lainnya)
+arg2 – objek kedua yang akan dibandingkan
+*args (opsional) – objek lainnya yang akan dibandingkan
+key – fungsi kunci dimana tiap argumen dilewatkan, dan perbandingan dibuat berdasarkan pada nilai kembalinya
 
 
 
