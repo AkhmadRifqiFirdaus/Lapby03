@@ -10,5 +10,9 @@ Perulangan for disebut counted loop (perulangan yang terhitung), sementara perul
 contoh perulangan :
 ![capture1](https://user-images.githubusercontent.com/46735232/52991188-3434c100-343e-11e9-8a61-3c11146b99b2.JPG)
 
+2.  latihan2.py
+
+
+
 
   
