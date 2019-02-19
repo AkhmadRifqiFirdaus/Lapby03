@@ -39,6 +39,10 @@ Didalam program 3 ini mengunakan 2 sistem pemrograman yaitu :
 2.Seperti halnya bahasa pemrograman yang lain, bahasa python juga mempunyai percabangan berupa if yaitu bila suatu kondisi tertentu tercapa maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.
 
 Codingan dan Output Program1.py
+Coding :
+![capture3](https://user-images.githubusercontent.com/46735232/52992288-a8716380-3442-11e9-9584-7acbf3b28dc1.JPG)
+Output/hasil :
+
 
 
 
